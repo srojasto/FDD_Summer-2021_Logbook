@@ -26,4 +26,11 @@ void gainPlot(const char *file = "test.txt")
   TCanvas *c1 = new TCanvas("c1","canvas",1200, 800);
   c1-> SetLogy();
   gr->Draw("AP");
+
+  TLegend* legend = new TLegend(0.12,0.7,0.46,0.8);
+   legend->SetHeader("Amplitude = HV^{p1}/p0"); // option "C" allows to center the header
+   legend->AddEntry(f,TString::Format("p0 = %.3e", f->GetParameter(0)),"l");
+   legend->AddEntry(f,TString::Format("p1 = %.3e",f->GetParameter(1)),"l");
+   legend->SetLineColor(0);
+   legend->Draw();
 }
