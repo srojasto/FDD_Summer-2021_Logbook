@@ -1,0 +1,4 @@
+1400	1.72954e-02	1	4.88920e-04 #only gaussian of the second peak (scr)
+1600	5.60579e-02	1	1.08132e-03 #scr
+1800	1.54190e-01	1	2.95641e-03
+2000	3.89351e-01	1	6.08489e-03 #peak between ped and sig, fit only gaus with fitpanel
