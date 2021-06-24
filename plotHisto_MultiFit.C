@@ -23,6 +23,7 @@ void plotHisto_MultiFit(const char * file = "run-2/1800v/F8--FDD_1--00003.txt")
       if(y!=0)
       h1->SetBinError(i,1./sqrt(y));
    }
+   h1->Rebin(4);
 
 
        Double_t par[11];
