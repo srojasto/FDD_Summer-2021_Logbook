@@ -1,0 +1,1 @@
+Folder with the plots of the gain curves of using the charge info
