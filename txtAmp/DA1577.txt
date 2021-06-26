@@ -1,0 +1,4 @@
+1400	3.91073e-03	1	1.36359e-04
+1600	6.74586e-03	1	4.81404e-04
+1800	1.63111e-02	1	6.62020e-04#peak between ped and sig, fit only gaus with fitpanel
+2000	3.89397e-02	1	1.26066e-03#peak between ped and sig, fit only gaus with fitpanel
