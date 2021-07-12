@@ -12,7 +12,7 @@
  - Replace FLAT screws for HEXAGONAL screws
 * Move the detector to P2
 * Store the preasambled detector in boxes and move it to P2
-* 
+* Store the fibres and move to P2
 
 # Instalation procedure
 - Install PMT boxes **Maybe tomorrow (13/07/2021)**
@@ -23,6 +23,26 @@
 
 # Tools
 - Velcro 
+- Screw-divers
+- Allen tools
+- Pliers
+- Scisors
+- Hot air-gun
+- Label machine
 - 
 
 # Material
+- FDD-A detector
+- Black thermofit to cover the exposed parts of the fibres.
+- PMTs
+- Fibre bundles
+- Black clothes
+- Ties
+- HV cables
+- Hexagonal screws for PMT box
+- Headless screws
+- Black tape: wide, medium, thin, 
+- Optical covers for LCS-fibres and FC connectors
+- Signal cable: LEMO and SMA
+- Adaptors for HV, signal and optical
+- Laser, function-generator
