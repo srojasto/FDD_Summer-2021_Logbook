@@ -1,8 +1,8 @@
 # Before the installation 
 ## 12/07/2021
-* **Fix the LCS-fibres to the cases and store the fibre bundle in the boxes**
-* PMT-box instaallation rehearsal in the lab: 
-  - **Check if it is a good idea to install the PMTs in the cases before or after install the fibres**
+* Fix the LCS-fibres to the cases and store the fibre bundle in the boxes - **DONE**
+* PMT-box instaallation rehearsal in the lab: **DONE**
+  - Check if it is a good idea to install the PMTs in the cases before or after install the fibres **install PMTs before install the fibres**
 * Splitter box characterization - **DONE**
 
 ## 13/07/2021
